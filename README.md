@@ -1,4 +1,4 @@
-# TO DO LIST 주요 사용 기능
+# React.js로 만든 To Do List
 
 ## Components
 
